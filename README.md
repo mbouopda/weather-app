@@ -51,3 +51,7 @@ npm run test
 # OR using Yarn
 yarn test
 ```
+
+![Service1](screenshots/service1.png)
+![Service1](screenshots/service2.png)
+![LocationInput](screenshots/location-input.png)
