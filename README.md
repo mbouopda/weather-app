@@ -1,8 +1,22 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+
+## Prerequisites
+
+- **Node.js**: Make sure you are using Node.js version specified in the `.nvmrc` file or in the `engines` field of `package.json`.
+
+### Setting up Node.js version
+
+We recommend using `nvm` (Node Version Manager) to manage Node.js versions.
+
+1. Install `nvm` by following the instructions [here](https://github.com/nvm-sh/nvm#installing-and-updating).
+2. Navigate to the project directory.
+3. Run the following command to switch to the required Node.js version:
+
+   ```bash
+   nvm install
+   nvm use
 
 ## Step 1: Start the Metro Server
 
