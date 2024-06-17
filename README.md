@@ -52,6 +52,8 @@ npm run test
 yarn test
 ```
 
-![Service1](screenshots/service1.png)
-![Service1](screenshots/service2.png)
-![LocationInput](screenshots/location-input.png)
+<div style="display: flex; justify-content: space-between;">
+  <img width = "33%" src="screenshots/service1.png" alt="Service1" width="32%">
+  <img width = "33%" src="screenshots/service2.png" alt="Service2" width="32%">
+  <img width = "33%" src="screenshots/location-input.png" alt="LocationInput" width="32%">
+</div>
