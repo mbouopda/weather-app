@@ -4,6 +4,7 @@
 
 ## Prerequisites
 
+- create a .env file and add the enviroment variable
 - **Node.js**: Make sure you are using Node.js version specified in the `.nvmrc` file or in the `engines` field of `package.json`.
 
 ### Setting up Node.js version

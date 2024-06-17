@@ -68,7 +68,6 @@ const LocationInput: React.FC<Props> = ({onLocationSubmit}) => {
             listView: styles.listView,
           }}
           debounce={200}
-          currentLocation={true}
           listEmptyComponent={<ListEmptyComponent />}
         />
         <Button
