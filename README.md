@@ -52,8 +52,8 @@ npm run test
 yarn test
 ```
 
-<div style="display: flex; justify-content: space-around;">
-  <img width = "33%" src="screenshots/service1.png" alt="Service1" width="32%">
-  <img width = "33%" src="screenshots/service2.png" alt="Service2" width="32%">
-  <img width = "33%" src="screenshots/location-input.png" alt="LocationInput" width="32%">
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/service1.png" alt="Service1" width="32%">
+  <img  src="screenshots/service2.png" alt="Service2" width="32%">
+  <img src="screenshots/location-input.png" alt="LocationInput" width="32%">
 </div>
