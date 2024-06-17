@@ -49,6 +49,9 @@ yarn android
 ### For iOS
 
 ```bash
+# pod install
+pod install
+
 # using npm
 npm run ios
 
